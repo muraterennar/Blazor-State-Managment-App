@@ -1,0 +1,17 @@
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Applicaiton\obj\Debug\net6.0\Applicaiton.csproj.AssemblyReference.cache
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Applicaiton\obj\Debug\net6.0\Applicaiton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Applicaiton\obj\Debug\net6.0\Applicaiton.AssemblyInfoInputs.cache
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Applicaiton\obj\Debug\net6.0\Applicaiton.AssemblyInfo.cs
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Applicaiton\obj\Debug\net6.0\Applicaiton.csproj.CoreCompileInputs.cache
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Applicaiton\bin\Debug\net6.0\Applicaiton.deps.json
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Applicaiton\bin\Debug\net6.0\Applicaiton.dll
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Applicaiton\bin\Debug\net6.0\Applicaiton.pdb
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Applicaiton\bin\Debug\net6.0\Persistence.dll
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Applicaiton\bin\Debug\net6.0\TestAppStateManagment.Shared.dll
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Applicaiton\bin\Debug\net6.0\Persistence.pdb
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Applicaiton\bin\Debug\net6.0\TestAppStateManagment.Shared.pdb
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Applicaiton\obj\Debug\net6.0\Applicai.222B3517.Up2Date
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Applicaiton\obj\Debug\net6.0\Applicaiton.dll
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Applicaiton\obj\Debug\net6.0\refint\Applicaiton.dll
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Applicaiton\obj\Debug\net6.0\Applicaiton.pdb
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Applicaiton\obj\Debug\net6.0\ref\Applicaiton.dll

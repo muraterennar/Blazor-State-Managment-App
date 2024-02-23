@@ -1,0 +1,17 @@
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Persistence\bin\Debug\net6.0\Persistence.deps.json
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Persistence\bin\Debug\net6.0\Persistence.runtimeconfig.json
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Persistence\bin\Debug\net6.0\Persistence.dll
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Persistence\bin\Debug\net6.0\TestAppStateManagment.Shared.dll
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Persistence\bin\Debug\net6.0\TestAppStateManagment.Shared.pdb
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Persistence\obj\Debug\net6.0\Persiste.61C28332.Up2Date
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Persistence\obj\Debug\net6.0\Persistence.dll
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Persistence\obj\Debug\net6.0\Persistence.pdb
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Persistence\obj\Debug\net6.0\ref\Persistence.dll

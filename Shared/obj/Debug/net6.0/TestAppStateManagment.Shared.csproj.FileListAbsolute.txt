@@ -1,0 +1,11 @@
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Shared\bin\Debug\net6.0\TestAppStateManagment.Shared.deps.json
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Shared\bin\Debug\net6.0\TestAppStateManagment.Shared.dll
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Shared\bin\Debug\net6.0\TestAppStateManagment.Shared.pdb
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Shared\obj\Debug\net6.0\TestAppStateManagment.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Shared\obj\Debug\net6.0\TestAppStateManagment.Shared.AssemblyInfoInputs.cache
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Shared\obj\Debug\net6.0\TestAppStateManagment.Shared.AssemblyInfo.cs
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Shared\obj\Debug\net6.0\TestAppStateManagment.Shared.csproj.CoreCompileInputs.cache
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Shared\obj\Debug\net6.0\TestAppStateManagment.Shared.dll
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Shared\obj\Debug\net6.0\refint\TestAppStateManagment.Shared.dll
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Shared\obj\Debug\net6.0\TestAppStateManagment.Shared.pdb
+C:\Users\murat\OneDrive\Masaüstü\Blazor_State_Managment\TestAppStateManagment\Shared\obj\Debug\net6.0\ref\TestAppStateManagment.Shared.dll
